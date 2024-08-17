@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: eed61d89073b2994da33a34be0047e22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {fileID: 5184797487933033792, guid: f0e8ac9c4332b784b98dfb7ad2225058, type: 3}
+  - OxygenTask: {instanceID: 0}
+  - ElectricityTask: {instanceID: 0}
+  - SpaceshipTask: {instanceID: 0}
+  - Text: {instanceID: 0}
+  - SpaceShip: {instanceID: 0}
+  - Star1: {instanceID: 0}
+  - Star2: {instanceID: 0}
+  - Star3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
